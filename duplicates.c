@@ -46,7 +46,7 @@ int main(int argc, char *argv[]) {
 			argument++;
 		}
    }
-	printf("%d\n", number_of_files);
+	printf("Number of Files: %d\n", number_of_files);
 	size_unique();	
 	exit(EXIT_SUCCESS);
 	return(0);
